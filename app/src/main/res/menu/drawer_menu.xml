@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/outline_door_sliding_black_20"
+        android:title="@string/nav_Closet" />
+
+    <item
+        android:id="@+id/nav_Fit"
+        android:icon="@drawable/outline_checkroom_black_20"
+        android:title="@string/nav_Fit" />
+
+    <item
+        android:id="@+id/nav_Recommend"
+        android:icon="@drawable/outline_assistant_black_20"
+        android:title="@string/nav_Recommend" />
+
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@drawable/outline_contact_support_black_20"
+        android:title="@string/nav_Info" />
+
+</menu>

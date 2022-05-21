@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyCloset</string>
+
+    <string name="nav_Closet">Closet</string>
+    <string name="nav_Fit">Fit</string>
+    <string name="nav_Recommend">Recommend</string>
+    <string name="nav_Info">Info</string>
+    <string name="menu_button">Menu button</string>
+    <string name="add_button">ADD</string>
+    <string name="delete_button">DELETE</string>
+    <string name="enter_name">Enter name</string>
+    <string name="insert_button">Insert</string>
+
+    <string-array name="clothe_type">
+        <item>Top</item>
+        <item>Bottom</item>
+    </string-array>
+
+    <string-array name="clothe_filter">
+        <item>All</item>
+        <item>Top</item>
+        <item>Bottom</item>
+    </string-array>
+
+    <string name="filter_text">Filter:</string>
+    <string name="name_text">Elie Irani</string>
+    <string name="id_text">ID: 201801617</string>
+    <string name="email_text">EMAIL: elie.irani@lau.edu</string>
+    <string name="ass_text">FREE PROJECT</string>
+
+    <string name="coming_soon">COMING SOON</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
